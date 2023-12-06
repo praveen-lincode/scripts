@@ -1,0 +1,8 @@
+[UbuntuSharedDir]
+path =/home/sansera/sansera/UbuntuSharedDir
+available = yes
+valid users = sansera
+read only = no
+browsable = yes
+public = yes
+writable = yes
